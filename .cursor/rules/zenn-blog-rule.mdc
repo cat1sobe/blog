@@ -1,5 +1,5 @@
 ---
-description:
-globs:
+description: 記事作成時に有用なルール
+globs: 
 alwaysApply: false
 ---
