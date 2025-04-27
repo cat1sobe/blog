@@ -1,0 +1,26 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cat1sobe/blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cat1sobe/blog/issues"
+  },
+  "homepage": "https://github.com/cat1sobe/blog#readme",
+  "description": "",
+  "dependencies": {
+    "zenn-cli": "^0.1.159"
+  }
+}
