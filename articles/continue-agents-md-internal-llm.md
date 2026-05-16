@@ -14,7 +14,6 @@ published: true
 
 - セキュリティ・コンプライアンス上の理由で **外部のAIサービス（ChatGPT / Claude / Cursor等）が使えない**
 - ただし社内には **OpenAI互換のAPIを持つ独自LLMプロキシ** がある
-- GitHub Copilotは導入できているが、**チャット中心で「自律的にツールを呼ぶ」用途には物足りない**
 - せめて社内環境の中で、Claude Codeに近い体験を再現したい
 
 この記事は、そんな環境で **Continue（VS Code拡張のOSS AIアシスタント）** を活用し、社内独自LLMでもエージェンティックな開発環境を構築するまでの実践メモです。あわせて、Continueには無い「Skills」機能を `AGENTS.md` で疑似的に再現したノウハウも紹介します。
